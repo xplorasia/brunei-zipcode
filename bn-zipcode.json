@@ -1,0 +1,3282 @@
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce43e"), 
+    "zipcode" : "KF4138", 
+    "area" : "Kampong Bang Pukul, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce43f"), 
+    "zipcode" : "KF4338", 
+    "area" : "Kampong Bang Tajuk, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce440"), 
+    "zipcode" : "KF1338", 
+    "area" : "Kampong Bisut, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce441"), 
+    "zipcode" : "KF2138", 
+    "area" : "Kampong Bukit Kandol, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce442"), 
+    "zipcode" : "KF1738", 
+    "area" : "Kampong Bukit Sawat, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce443"), 
+    "zipcode" : "KF2738", 
+    "area" : "Kampong Bukit Serawong, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce444"), 
+    "zipcode" : "KF2538", 
+    "area" : "Kampong Kagu, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce445"), 
+    "zipcode" : "KF2338", 
+    "area" : "Kampong Labi Lakang, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce446"), 
+    "zipcode" : "KF3538", 
+    "area" : "Kampong Laong Arut, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce447"), 
+    "zipcode" : "KF3338", 
+    "area" : "Kampong Merangking Hilir, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce448"), 
+    "zipcode" : "KF3138", 
+    "area" : "Kampong Merangking Ulu, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce449"), 
+    "zipcode" : "KF3938", 
+    "area" : "Kampong Pengkalan Siong, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44a"), 
+    "zipcode" : "KF4738", 
+    "area" : "Kampong Pengkalan Sungai Mau, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44b"), 
+    "zipcode" : "KF4538", 
+    "area" : "Kampong Pulu Apil, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44c"), 
+    "zipcode" : "KF2938", 
+    "area" : "Kampong Singap, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44d"), 
+    "zipcode" : "KF1138", 
+    "area" : "Kampong Sungai Mau, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44e"), 
+    "zipcode" : "KF1538", 
+    "area" : "Kampong Sungai Ubar, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce44f"), 
+    "zipcode" : "KF3738", 
+    "area" : "Kampong Tarap, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce450"), 
+    "zipcode" : "KF1938", 
+    "area" : "Kampong Ubok-Ubok, Bukit Sawat", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce451"), 
+    "zipcode" : "KD1132", 
+    "area" : "Kampong Kuala Balai, Kuala Balai", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce452"), 
+    "zipcode" : "KD1332", 
+    "area" : "Kampong Mala'as, Kuala Balai", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce453"), 
+    "zipcode" : "KD1532", 
+    "area" : "Kampong Sungai Damit, Kuala Balai", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce454"), 
+    "zipcode" : "KA1131", 
+    "area" : "Jabatan Bandaran, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce455"), 
+    "zipcode" : "KA1131", 
+    "area" : "Jabatan Daearah Kuala Belait, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce456"), 
+    "zipcode" : "KA2331", 
+    "area" : "Kampong China, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce457"), 
+    "zipcode" : "KA1331", 
+    "area" : "Kampong Melayu Asli, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce458"), 
+    "zipcode" : "KA1731", 
+    "area" : "Kampong Mumong Selatan, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce459"), 
+    "zipcode" : "KA1531", 
+    "area" : "Kampong Mumong Utara, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45a"), 
+    "zipcode" : "KA1931", 
+    "area" : "Kampong Pandan, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45b"), 
+    "zipcode" : "KA2731", 
+    "area" : "Kampong Rasau, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45c"), 
+    "zipcode" : "KA3131", 
+    "area" : "Kampong Sungai Duhon, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45d"), 
+    "zipcode" : "KA3331", 
+    "area" : "Kampong Sungai Teraban, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45e"), 
+    "zipcode" : "KA1131", 
+    "area" : "Pekan Kuala Belait, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce45f"), 
+    "zipcode" : "KA2931", 
+    "area" : "Perumahan BSP, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce460"), 
+    "zipcode" : "KA2131", 
+    "area" : "Perumahan Negara Kampung Pandan, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce461"), 
+    "zipcode" : "KA3531", 
+    "area" : "Sungai Satu Hingga Sungai Tujoh, Kuala Belait", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce462"), 
+    "zipcode" : "KE1137", 
+    "area" : "Kampong Bukit Puan, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce463"), 
+    "zipcode" : "KE2537", 
+    "area" : "Kampong Gatas, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce464"), 
+    "zipcode" : "KE2737", 
+    "area" : "Kampong Kenapol, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce465"), 
+    "zipcode" : "KE1537", 
+    "area" : "Kampong Malayan, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce466"), 
+    "zipcode" : "KE3537", 
+    "area" : "Kampong Mendaram Besar, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce467"), 
+    "zipcode" : "KE3737", 
+    "area" : "Kampong Mendaram Kecil, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce468"), 
+    "zipcode" : "KE2937", 
+    "area" : "Kampong Pesilin, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce469"), 
+    "zipcode" : "KE3337", 
+    "area" : "Kampong Rampayoh, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46a"), 
+    "zipcode" : "KE2137", 
+    "area" : "Kampong Ratan, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46b"), 
+    "zipcode" : "KE1337", 
+    "area" : "Kampong Sungai Patai, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46c"), 
+    "zipcode" : "KE3137", 
+    "area" : "Kampong Tarawan, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46d"), 
+    "zipcode" : "KE1937", 
+    "area" : "Kampong Tenajor, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46e"), 
+    "zipcode" : "KE3937", 
+    "area" : "Kampong Teraja, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce46f"), 
+    "zipcode" : "KE2337", 
+    "area" : "Kampong Terunan, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce470"), 
+    "zipcode" : "KE1737", 
+    "area" : "Kampong Tupan Lupak, Labi", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce471"), 
+    "zipcode" : "KC1535", 
+    "area" : "Kampong Andalau, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce472"), 
+    "zipcode" : "KC1335", 
+    "area" : "Kampong Gana, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce473"), 
+    "zipcode" : "KC1735", 
+    "area" : "Kampong Keluyoh, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce474"), 
+    "zipcode" : "KC2335", 
+    "area" : "Kampong Liang Kecil, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce475"), 
+    "zipcode" : "KC2535", 
+    "area" : "Kampong Lilas, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce476"), 
+    "zipcode" : "KC2135", 
+    "area" : "Kampong Padang, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce477"), 
+    "zipcode" : "KC1935", 
+    "area" : "Kampong Perumpong, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce478"), 
+    "zipcode" : "KC1135", 
+    "area" : "Kampong Sungai Liang, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce479"), 
+    "zipcode" : "KC2735", 
+    "area" : "Kampong Tunggulian, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47a"), 
+    "zipcode" : "KC3135", 
+    "area" : "Lumut Dua, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47b"), 
+    "zipcode" : "KC2935", 
+    "area" : "Lumut Satu, Liang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47c"), 
+    "zipcode" : "KH1539", 
+    "area" : "Kampong Bengerang II, Melilas", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47d"), 
+    "zipcode" : "KH1339", 
+    "area" : "Kampong Melilas, Melilas", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47e"), 
+    "zipcode" : "KH1139", 
+    "area" : "Kampong Tempinak, Melilas", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce47f"), 
+    "zipcode" : "KB2333", 
+    "area" : "Kampong Anduki, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce480"), 
+    "zipcode" : "KB3933", 
+    "area" : "Kampong Jabang, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce481"), 
+    "zipcode" : "KB2133", 
+    "area" : "Kampong Jalan Bedas, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce482"), 
+    "zipcode" : "KB1333", 
+    "area" : "Kampong Lorong Tiga Selatan, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce483"), 
+    "zipcode" : "KB2733", 
+    "area" : "Kampong Masjid, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce484"), 
+    "zipcode" : "KB1133", 
+    "area" : "Kampong Pekan Seria, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce485"), 
+    "zipcode" : "KB1733", 
+    "area" : "Kampong Perakong, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce486"), 
+    "zipcode" : "KB2533", 
+    "area" : "Kampong Perpindahan Baru, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce487"), 
+    "zipcode" : "KB1933", 
+    "area" : "Kampong Sungai Bera, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce488"), 
+    "zipcode" : "KB4333", 
+    "area" : "Kawasan Jalan Bolkiah, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce489"), 
+    "zipcode" : "KB2933", 
+    "area" : "Kawasan Perumahan B.S.P, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48a"), 
+    "zipcode" : "KB3133", 
+    "area" : "Kawasan Perumahan B.S.P, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48b"), 
+    "zipcode" : "KB3333", 
+    "area" : "Kawasan Perumahan B.S.P, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48c"), 
+    "zipcode" : "KB3533", 
+    "area" : "Kawasan Shell, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48d"), 
+    "zipcode" : "KB3733", 
+    "area" : "Military Area, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48e"), 
+    "zipcode" : "KB4533", 
+    "area" : "Panaga, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e2f9e03a3f200ce48f"), 
+    "zipcode" : "KB1533", 
+    "area" : "Perumahan Negara, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce490"), 
+    "zipcode" : "KB4133", 
+    "area" : "Sekolah Mission, Seria", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce491"), 
+    "zipcode" : "KG2339", 
+    "area" : "Kampong Ambawang, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce492"), 
+    "zipcode" : "KG1139", 
+    "area" : "Kampong Apak - Apak, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce493"), 
+    "zipcode" : "KG2539", 
+    "area" : "Kampong Biadong Tengah, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce494"), 
+    "zipcode" : "KG2739", 
+    "area" : "Kampong Biadong Ulu, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce495"), 
+    "zipcode" : "KG1539", 
+    "area" : "Kampong Buau, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce496"), 
+    "zipcode" : "KG2139", 
+    "area" : "Kampong Dungun, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce497"), 
+    "zipcode" : "KG1739", 
+    "area" : "Kampong Kukup, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce498"), 
+    "zipcode" : "KG1339", 
+    "area" : "Kampong Saud, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce499"), 
+    "zipcode" : "KG1939", 
+    "area" : "Kampong Sukang, Sukang", 
+    "city" : "Belait"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49a"), 
+    "zipcode" : "BS8610", 
+    "area" : "Adat Istiadat Negara, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49b"), 
+    "zipcode" : "BS8610", 
+    "area" : "Agensi Pelaburan Brunei, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49c"), 
+    "zipcode" : "BS8211", 
+    "area" : "Berangan, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49d"), 
+    "zipcode" : "BS8810", 
+    "area" : "Jabatan Bandaran, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49e"), 
+    "zipcode" : "BS8510", 
+    "area" : "Jabatan Hal Ehwal Syariah, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce49f"), 
+    "zipcode" : "BS8610", 
+    "area" : "Jabatan Perbendaharan, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a0"), 
+    "zipcode" : "BS8410", 
+    "area" : "Jabatan Perkembangan Kurikulum, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a1"), 
+    "zipcode" : "BS8610", 
+    "area" : "Jabatan Pusat Sejarah, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a2"), 
+    "zipcode" : "BS8610", 
+    "area" : "JPM (Bangunan Setiausaha Kerajaan), Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a3"), 
+    "zipcode" : "BS8810", 
+    "area" : "Kastam dan Eksais DiRaja, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a4"), 
+    "zipcode" : "BS8811", 
+    "area" : "Kawasan Perdagangan Bumi Putera, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a5"), 
+    "zipcode" : "BS8611", 
+    "area" : "Kawasan Pusat Sejarah, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a6"), 
+    "zipcode" : "BS8711", 
+    "area" : "Kawasan Yayasan Sultan Haji Hassanal Bolkiah, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a7"), 
+    "zipcode" : "BS8610", 
+    "area" : "Kementerian HAL EHWAL DALAM NEGERI, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a8"), 
+    "zipcode" : "BS8110", 
+    "area" : "Kementerian KEBUDAYAAN, BELIA DAN SUKAN, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4a9"), 
+    "zipcode" : "BS8710", 
+    "area" : "Kementerian KEWANGAN, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4aa"), 
+    "zipcode" : "BS8111", 
+    "area" : "Kianggeh, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ab"), 
+    "zipcode" : "BS8610", 
+    "area" : "Lembaga Mata Wang, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ac"), 
+    "zipcode" : "BS8610", 
+    "area" : "Majlis-Majlis Mesyuarat Negara, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ad"), 
+    "zipcode" : "BS8510", 
+    "area" : "Mufti Kerajaan Brunei, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ae"), 
+    "zipcode" : "BS8411", 
+    "area" : "Padang, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4af"), 
+    "zipcode" : "BS8510", 
+    "area" : "Pejabat Kadi Besar, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b0"), 
+    "zipcode" : "BS8710", 
+    "area" : "Perancangan dan Kemajuan Ekonomi, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b1"), 
+    "zipcode" : "BS8110", 
+    "area" : "Pusat Kesenian dan Pertukangan, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b2"), 
+    "zipcode" : "BS8610", 
+    "area" : "Radio Dan Televisyen Brunei, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b3"), 
+    "zipcode" : "BS8511", 
+    "area" : "Sumbiling, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b4"), 
+    "zipcode" : "BS8710", 
+    "area" : "Tabung Amanah Pekerja, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b5"), 
+    "zipcode" : "BS8311", 
+    "area" : "Tasek Lama, Bandar Seri Begawan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b6"), 
+    "zipcode" : "BB3510", 
+    "area" : "Angkatan Bersenjata Diraja Brunei, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b7"), 
+    "zipcode" : "BB3910", 
+    "area" : "Badan Kemajuan Industri Brunei (BINA), Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b8"), 
+    "zipcode" : "BB3510", 
+    "area" : "Dewan Bahasa dan Pustaka, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4b9"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan AuditB, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ba"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Belia dan Sukan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4bb"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Biro Mencegah Rasuah, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4bc"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan Buruh, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4bd"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Daerah Brunei Muara, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4be"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan Imigresen dan Pendaftaran, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4bf"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Kemajuan Perumahan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c0"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Kenaziran Sekola-Sekolah, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c1"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Kerja Raya, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c2"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Penerangan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c3"), 
+    "zipcode" : "BB2513", 
+    "area" : "Jabatan Penerbangan Awam, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c4"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Pentadbiran dan Perkhidmatan-Perkhidmatan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c5"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Peperiksaan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c6"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perancang Bandar dan Desa, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c7"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perancangan dan Pemiliharaan Bangunan dan Kawasan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c8"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Percetakan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4c9"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan Perhutanan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ca"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan Perikanan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4cb"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perkhdmatan Bomba, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4cc"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perkhidmatan Awam, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4cd"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perkhidmatan Elektrik, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ce"), 
+    "zipcode" : "BB3910", 
+    "area" : "Jabatan Perkhidmatan Pengurusan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4cf"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perkhidmatan Pos, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d0"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Pertanian, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d1"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Perubatan dan Kesihatan, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d2"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Sekolah-Sekolah, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d3"), 
+    "zipcode" : "BB3510", 
+    "area" : "Jabatan Telekom, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d4"), 
+    "zipcode" : "BB3713", 
+    "area" : "Kampong Anggerek Desa, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d5"), 
+    "zipcode" : "BB3313", 
+    "area" : "Kampong Burong Pinggai Berakas, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d6"), 
+    "zipcode" : "BB5313", 
+    "area" : "Kampong Delima Dua, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d7"), 
+    "zipcode" : "BB4713", 
+    "area" : "Kampong Delima Satu, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d8"), 
+    "zipcode" : "BB3113", 
+    "area" : "Kampong Jaya Bakti, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4d9"), 
+    "zipcode" : "BB2713", 
+    "area" : "Kampong Jaya Setia, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4da"), 
+    "zipcode" : "BB1414", 
+    "area" : "Kampong Lambak Kanan 'B', Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4db"), 
+    "zipcode" : "BB1714", 
+    "area" : "Kampong Lambak Kanan 'B', Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4dc"), 
+    "zipcode" : "BB1314", 
+    "area" : "Kampong Lambak Kiri 'A', Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4dd"), 
+    "zipcode" : "BB1214", 
+    "area" : "Kampong Lambak Kiri 'B', Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4de"), 
+    "zipcode" : "BB1114", 
+    "area" : "Kampong Lambak Kiri (Kurnia Rakyat Jati), Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4df"), 
+    "zipcode" : "BB4113", 
+    "area" : "Kampong Orang Kaya Besar Imas, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e0"), 
+    "zipcode" : "BB4513", 
+    "area" : "Kampong Pancha Delima, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e1"), 
+    "zipcode" : "BB5113", 
+    "area" : "Kampong Pengiran Siraja Muda, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e2"), 
+    "zipcode" : "BB4313", 
+    "area" : "Kampong Pulaie, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e3"), 
+    "zipcode" : "BB2314", 
+    "area" : "Kampong Serusop, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e4"), 
+    "zipcode" : "BB1514", 
+    "area" : "Kampong Terunjing Baru, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e5"), 
+    "zipcode" : "BB2114", 
+    "area" : "Kampong Terunjing Lama, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e6"), 
+    "zipcode" : "BB3913", 
+    "area" : "Kawasan Jalan Menteri Besar, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e7"), 
+    "zipcode" : "BB2513", 
+    "area" : "Kawasan Lapangan Terbang AntaraBangsa, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e8"), 
+    "zipcode" : "BB3513", 
+    "area" : "Kawasan Lapangan Terbang Lama, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4e9"), 
+    "zipcode" : "BB3910", 
+    "area" : "Kementerian HAL EHWAL UGAMA, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ea"), 
+    "zipcode" : "BB3910", 
+    "area" : "Kementerian KESIHATAN, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4eb"), 
+    "zipcode" : "BB3510", 
+    "area" : "Kementerian PEMBANGUNAN, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ec"), 
+    "zipcode" : "BB3510", 
+    "area" : "Kementerian PENDIDIKAN, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ed"), 
+    "zipcode" : "BB3510", 
+    "area" : "Kementerian PERHUBUNGAN, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ee"), 
+    "zipcode" : "BB3910", 
+    "area" : "Kementerian PERINDUSTRIAN DAN SUMBER-SUMBER UTAMA, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ef"), 
+    "zipcode" : "BB3510", 
+    "area" : "Kementerian PERTAHANAN, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f0"), 
+    "zipcode" : "BB3510", 
+    "area" : "Pejabat Tanah, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f1"), 
+    "zipcode" : "BB3510", 
+    "area" : "Pejabat Ukur, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f2"), 
+    "zipcode" : "BB4310", 
+    "area" : "Pusat Dakwah Islamiah, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f3"), 
+    "zipcode" : "BB3910", 
+    "area" : "Pusat Persidangan AntaraBangsa, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f4"), 
+    "zipcode" : "BB3910", 
+    "area" : "Semaun Holdings, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f5"), 
+    "zipcode" : "BB3510", 
+    "area" : "Suruhanjaya Perkhidmatan Awam, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f6"), 
+    "zipcode" : "BB4310", 
+    "area" : "Unit Perkhidmatan Hal Ehwal Masyarakat - Pulaie, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f7"), 
+    "zipcode" : "BB3910", 
+    "area" : "Unit Petroleum, Berakas 'A'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f8"), 
+    "zipcode" : "BC3715", 
+    "area" : "Kampong Madang, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4f9"), 
+    "zipcode" : "BC3515", 
+    "area" : "Kampong Manggis Dua, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4fa"), 
+    "zipcode" : "BC3615", 
+    "area" : "Kampong Manggis Satu, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4fb"), 
+    "zipcode" : "BC1515", 
+    "area" : "Kampong Salambigar, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4fc"), 
+    "zipcode" : "BC3915", 
+    "area" : "Kampong Sungai Akar, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4fd"), 
+    "zipcode" : "BC4115", 
+    "area" : "Kampong Sungai Akar, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4fe"), 
+    "zipcode" : "BC2115", 
+    "area" : "Kampong Sungai Hanching, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce4ff"), 
+    "zipcode" : "BC1715", 
+    "area" : "Kampong Sungai Orok, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce500"), 
+    "zipcode" : "BC3315", 
+    "area" : "Kampong Sungai Tilong, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce501"), 
+    "zipcode" : "BC2315", 
+    "area" : "Perumahan Negara Kawasan 1, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce502"), 
+    "zipcode" : "BC2515", 
+    "area" : "Perumahan Negara Kawasan 2, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce503"), 
+    "zipcode" : "BC2715", 
+    "area" : "Perumahan Negara Kawasan 3, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce504"), 
+    "zipcode" : "BC2915", 
+    "area" : "Perumahan Negara Kawasan 4, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce505"), 
+    "zipcode" : "BC3115", 
+    "area" : "Perumahan Negara Kawasan 5, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce506"), 
+    "zipcode" : "BC1115", 
+    "area" : "Taman Salambigar, Berakas 'B'", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce507"), 
+    "zipcode" : "BM1126", 
+    "area" : "Kampong Burong Pinggai Ayer, Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce508"), 
+    "zipcode" : "BM1326", 
+    "area" : "Kampong Lurong Dalam, Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce509"), 
+    "zipcode" : "BM1526", 
+    "area" : "Kampong Pandai Besi 'A', Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50a"), 
+    "zipcode" : "BM1726", 
+    "area" : "Kampong Pandai Besi 'B', Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50b"), 
+    "zipcode" : "BM2526", 
+    "area" : "Kampong Pekan Lama, Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50c"), 
+    "zipcode" : "BM2326", 
+    "area" : "Kampong Pg. Setia Negara, Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50d"), 
+    "zipcode" : "BM2726", 
+    "area" : "Kampong Sungai Asam, Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50e"), 
+    "zipcode" : "BM1926", 
+    "area" : "Kampong Sungai Pandan 'A', Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce50f"), 
+    "zipcode" : "BM2126", 
+    "area" : "Kampong Sungai Pandan 'B', Burong Pinggai Ayer", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce510"), 
+    "zipcode" : "BE2110", 
+    "area" : "Jabatan Biro Kawalan Narkotik, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce511"), 
+    "zipcode" : "BE1310", 
+    "area" : "Jabatan Kurikulum, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce512"), 
+    "zipcode" : "BE1310", 
+    "area" : "Jabatan Pendidikan Teknik, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce513"), 
+    "zipcode" : "BE1110", 
+    "area" : "Jabatan Pengangkutan Darat, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce514"), 
+    "zipcode" : "BE1110", 
+    "area" : "Jabatan Teknologi Maklumat dan Stor Negara, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce515"), 
+    "zipcode" : "BE3519", 
+    "area" : "Kampong Batu Bersurat, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce516"), 
+    "zipcode" : "BE1118", 
+    "area" : "Kampong Beribi, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce517"), 
+    "zipcode" : "BE2719", 
+    "area" : "Kampong Gadong, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce518"), 
+    "zipcode" : "BE2919", 
+    "area" : "Kampong Gadong Estate, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce519"), 
+    "zipcode" : "BE2319", 
+    "area" : "Kampong Katok, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51a"), 
+    "zipcode" : "BE1318", 
+    "area" : "Kampong Kiarong, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51b"), 
+    "zipcode" : "BE1518", 
+    "area" : "Kampong Kiulap, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51c"), 
+    "zipcode" : "BE1718", 
+    "area" : "Kampong Mata-Mata, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51d"), 
+    "zipcode" : "BE3919", 
+    "area" : "Kampong Menglait I, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51e"), 
+    "zipcode" : "BE4119", 
+    "area" : "Kampong Menglait II, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce51f"), 
+    "zipcode" : "BE3719", 
+    "area" : "Kampong Pengkalan Gadong, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce520"), 
+    "zipcode" : "BE3119", 
+    "area" : "Kampong Rimba, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce521"), 
+    "zipcode" : "BE2119", 
+    "area" : "Kampong Tungku, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce522"), 
+    "zipcode" : "BE3619", 
+    "area" : "Kawasan Tungku Link, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce523"), 
+    "zipcode" : "BE1918", 
+    "area" : "Perumahan Mata-Mata, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce524"), 
+    "zipcode" : "BE3319", 
+    "area" : "Perumahan Negara Rimba, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce525"), 
+    "zipcode" : "BE2519", 
+    "area" : "Perumahan Negara Tungku, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce526"), 
+    "zipcode" : "BE1710", 
+    "area" : "Polis Diraja Brunei, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce527"), 
+    "zipcode" : "BE1410", 
+    "area" : "Universiti Brunei Darussalam, Gadong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce528"), 
+    "zipcode" : "BA1710", 
+    "area" : "Hospital RIPAS, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce529"), 
+    "zipcode" : "BA1712", 
+    "area" : "Institut Pengajian Islam Brunei Darussalam, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52a"), 
+    "zipcode" : "BA2110", 
+    "area" : "Jabatan Hal Ehwal Masjid, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52b"), 
+    "zipcode" : "BA1910", 
+    "area" : "Jabatan Kehakiman, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52c"), 
+    "zipcode" : "BA1910", 
+    "area" : "Jabatan Keselamatan Dalam Negeri, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52d"), 
+    "zipcode" : "BA1910", 
+    "area" : "Jabatan Undang-Undang, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52e"), 
+    "zipcode" : "BA2110", 
+    "area" : "Jabatan Urusan Haji, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce52f"), 
+    "zipcode" : "BA1000", 
+    "area" : "JPM (Istana Nurul Iman), Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce530"), 
+    "zipcode" : "BA2711", 
+    "area" : "Kampong Pintu Malim, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce531"), 
+    "zipcode" : "BA2511", 
+    "area" : "Kampong Sungai Liang, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce532"), 
+    "zipcode" : "BA1111", 
+    "area" : "Kawasan Mabohai, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce533"), 
+    "zipcode" : "BA1311", 
+    "area" : "Kawasan Tong Kadeh, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce534"), 
+    "zipcode" : "BA1910", 
+    "area" : "Kementerian UNDANG-UNDANG, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce535"), 
+    "zipcode" : "BA1511", 
+    "area" : "Kumbang Pasang, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce536"), 
+    "zipcode" : "BA1912", 
+    "area" : "Parit (Serigan), Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce537"), 
+    "zipcode" : "BA1711", 
+    "area" : "Seri Kompleks, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce538"), 
+    "zipcode" : "BA2312", 
+    "area" : "Telanai, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce539"), 
+    "zipcode" : "BA2112", 
+    "area" : "Tumasek, Kianggeh", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53a"), 
+    "zipcode" : "BF1920", 
+    "area" : "Kampong Bengkurong, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53b"), 
+    "zipcode" : "BF1320", 
+    "area" : "Kampong Bunot, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53c"), 
+    "zipcode" : "BF1720", 
+    "area" : "Kampong Burong Lepas, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53d"), 
+    "zipcode" : "BF2320", 
+    "area" : "Kampong Jalan Bebatik Kilanas, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53e"), 
+    "zipcode" : "BF2720", 
+    "area" : "Kampong Jangsak, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce53f"), 
+    "zipcode" : "BF2520", 
+    "area" : "Kampong Kilanas, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce540"), 
+    "zipcode" : "BF1120", 
+    "area" : "Kampong Madewa, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce541"), 
+    "zipcode" : "BF2120", 
+    "area" : "Kampong Sinarubai, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce542"), 
+    "zipcode" : "BF2920", 
+    "area" : "Kampong Tanjong Bunut, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce543"), 
+    "zipcode" : "BF1520", 
+    "area" : "Kampong Tasek Meradun, Kilanas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce544"), 
+    "zipcode" : "BD1510", 
+    "area" : "Jabatan Muzium-Muzium, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce545"), 
+    "zipcode" : "BD2917", 
+    "area" : "Kampong Belimbing, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce546"), 
+    "zipcode" : "BD3717", 
+    "area" : "Kampong Berambang, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce547"), 
+    "zipcode" : "BD3917", 
+    "area" : "Kampong Buang Kepayang, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce548"), 
+    "zipcode" : "BD1717", 
+    "area" : "Kampong Datu Gandi, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce549"), 
+    "zipcode" : "BD1517", 
+    "area" : "Kampong Kota Batu, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54a"), 
+    "zipcode" : "BD4317", 
+    "area" : "Kampong Menunggol, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54b"), 
+    "zipcode" : "BD2317", 
+    "area" : "Kampong Pelambayan, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54c"), 
+    "zipcode" : "BD3517", 
+    "area" : "Kampong Pudak, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54d"), 
+    "zipcode" : "BD4517", 
+    "area" : "Kampong Pulau Baru-Baru dan Berbunut, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54e"), 
+    "zipcode" : "BD4117", 
+    "area" : "Kampong Riong, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce54f"), 
+    "zipcode" : "BD2117", 
+    "area" : "Kampong Serdang/Sungai Belukut, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce550"), 
+    "zipcode" : "BD2717", 
+    "area" : "Kampong Subok, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce551"), 
+    "zipcode" : "BD2517", 
+    "area" : "Kampong Sungai Besar, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce552"), 
+    "zipcode" : "BD3317", 
+    "area" : "Kampong Sungai Bunga, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce553"), 
+    "zipcode" : "BD1917", 
+    "area" : "Kampong Sungai Matan, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce554"), 
+    "zipcode" : "BD3117", 
+    "area" : "Kampong Tanjong Cendana, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce555"), 
+    "zipcode" : "BD2710", 
+    "area" : "Kementerian HAL EHWAL LUAR NEGERI, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce556"), 
+    "zipcode" : "BD1310", 
+    "area" : "Pejabat Pengajian Islam, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce557"), 
+    "zipcode" : "BD2917", 
+    "area" : "Unit Gurkha Simpanan, Kota Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce558"), 
+    "zipcode" : "BJ2924", 
+    "area" : "Buang Tengkurok/Sengkirap, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce559"), 
+    "zipcode" : "BJ1924", 
+    "area" : "Kampong Buang Sakar, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55a"), 
+    "zipcode" : "BJ2324", 
+    "area" : "Kampong Bukit Merikan, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55b"), 
+    "zipcode" : "BJ1724", 
+    "area" : "Kampong Kasat, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55c"), 
+    "zipcode" : "BJ3324", 
+    "area" : "Kampong Kelugus, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55d"), 
+    "zipcode" : "BJ1124", 
+    "area" : "Kampong Kupang, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55e"), 
+    "zipcode" : "BJ3324", 
+    "area" : "Kampong Lumapas 'A', Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce55f"), 
+    "zipcode" : "BJ3524", 
+    "area" : "Kampong Lumapas 'B', Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce560"), 
+    "zipcode" : "BJ2524", 
+    "area" : "Kampong Lupak Luas, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce561"), 
+    "zipcode" : "BJ3324", 
+    "area" : "Kampong Pancur, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce562"), 
+    "zipcode" : "BJ1524", 
+    "area" : "Kampong Pengkalan Batang, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce563"), 
+    "zipcode" : "BJ1324", 
+    "area" : "Kampong Putat, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce564"), 
+    "zipcode" : "BJ2124", 
+    "area" : "Kampong Tarap Bau, Lumapas", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce565"), 
+    "zipcode" : "BU1529", 
+    "area" : "Kampong Batu Marang, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce566"), 
+    "zipcode" : "BU1929", 
+    "area" : "Kampong Mentiri, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce567"), 
+    "zipcode" : "BU1729", 
+    "area" : "Kampong Panchor, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce568"), 
+    "zipcode" : "BU2329", 
+    "area" : "Kampong Paring, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce569"), 
+    "zipcode" : "BU2529", 
+    "area" : "Kampong Pengkalan Sibabau, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56a"), 
+    "zipcode" : "BU1429", 
+    "area" : "Kampong Salar, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56b"), 
+    "zipcode" : "BU1229", 
+    "area" : "Kampong Sungai Buloh I, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56c"), 
+    "zipcode" : "BU1329", 
+    "area" : "Kampong Sungai Buloh II, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56d"), 
+    "zipcode" : "BU1129", 
+    "area" : "Kampong Tanah Jambu, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56e"), 
+    "zipcode" : "BU2129", 
+    "area" : "Perpindahan Mentiri, Mentiri", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce56f"), 
+    "zipcode" : "BH1523", 
+    "area" : "Kampong Batang Perhentian, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce570"), 
+    "zipcode" : "BH2923", 
+    "area" : "Kampong Batong, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce571"), 
+    "zipcode" : "BH1323", 
+    "area" : "Kampong Batu Ampar, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce572"), 
+    "zipcode" : "BH3223", 
+    "area" : "Kampong Bebatik (Masin), Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce573"), 
+    "zipcode" : "BH3323", 
+    "area" : "Kampong Bebuloh, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce574"), 
+    "zipcode" : "BH1723", 
+    "area" : "Kampong Bukit Belimbing, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce575"), 
+    "zipcode" : "BH3223", 
+    "area" : "Kampong Jalan Bebatik Kilanas, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce576"), 
+    "zipcode" : "BH2123", 
+    "area" : "Kampong Junjongan, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce577"), 
+    "zipcode" : "BH1923", 
+    "area" : "Kampong Kuala Lurah, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce578"), 
+    "zipcode" : "BH2323", 
+    "area" : "Kampong Limau Manis, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce579"), 
+    "zipcode" : "BH2723", 
+    "area" : "Kampong Masin, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57a"), 
+    "zipcode" : "BH3123", 
+    "area" : "Kampong Panchor Murai, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57b"), 
+    "zipcode" : "BH1123", 
+    "area" : "Kampong Pengkalan Batu, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57c"), 
+    "zipcode" : "BH2523", 
+    "area" : "Kampong Wasan, Pengkalan Batu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57d"), 
+    "zipcode" : "BP2326", 
+    "area" : "Kampong Bakut Berumput, Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57e"), 
+    "zipcode" : "BP1726", 
+    "area" : "Kampong Bakut Seraja Muda 'A', Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce57f"), 
+    "zipcode" : "BP1926", 
+    "area" : "Kampong Bakut Seraja Muda 'B', Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce580"), 
+    "zipcode" : "BP2126", 
+    "area" : "Kampong Lurong sekuna, Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce581"), 
+    "zipcode" : "BP1326", 
+    "area" : "Kampong Pekilong Muara, Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce582"), 
+    "zipcode" : "BP1126", 
+    "area" : "Kampong Peramu, Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce583"), 
+    "zipcode" : "BP1526", 
+    "area" : "Kampong Setia Pahlawan, Peramu", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce584"), 
+    "zipcode" : "BR1326", 
+    "area" : "Kampong Saba Darat 'A', Saba", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce585"), 
+    "zipcode" : "BR1526", 
+    "area" : "Kampong Saba Darat 'B', Saba", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce586"), 
+    "zipcode" : "BR1126", 
+    "area" : "Kampong Saba Laut, Saba", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce587"), 
+    "zipcode" : "BR1926", 
+    "area" : "Kampong Saba Tengah, Saba", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce588"), 
+    "zipcode" : "BR1726", 
+    "area" : "Kampong Saba Ujong, Saba", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce589"), 
+    "zipcode" : "BG3122", 
+    "area" : "Jabatan Penjara, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58a"), 
+    "zipcode" : "BG3322", 
+    "area" : "Kampong Bukit Bunga, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58b"), 
+    "zipcode" : "BG3122", 
+    "area" : "Kampong Jerudong, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58c"), 
+    "zipcode" : "BG2721", 
+    "area" : "Kampong Katimahar, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58d"), 
+    "zipcode" : "BG2521", 
+    "area" : "Kampong Kulapis, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58e"), 
+    "zipcode" : "BG2921", 
+    "area" : "Kampong Lugu, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce58f"), 
+    "zipcode" : "BG2121", 
+    "area" : "Kampong Mulaut, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce590"), 
+    "zipcode" : "BG1221", 
+    "area" : "Kampong Pasai, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce591"), 
+    "zipcode" : "BG1721", 
+    "area" : "Kampong Selayun, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce592"), 
+    "zipcode" : "BG1121", 
+    "area" : "Kampong Sengkurong 'A', Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce593"), 
+    "zipcode" : "BG1321", 
+    "area" : "Kampong Sengkurong 'B', Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce594"), 
+    "zipcode" : "BG1921", 
+    "area" : "Kampong Sungai Tampoi, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce595"), 
+    "zipcode" : "BG1521", 
+    "area" : "Kampong Tagap, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce596"), 
+    "zipcode" : "BG2321", 
+    "area" : "Kampong Tanjong Nangka, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce597"), 
+    "zipcode" : "BG3110", 
+    "area" : "Pusat Tahanan, Sengkurong", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce598"), 
+    "zipcode" : "BT1728", 
+    "area" : "Jabatan Laut, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce599"), 
+    "zipcode" : "BT1728", 
+    "area" : "Jabatan Pelabuhan-Pelabuhan, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59a"), 
+    "zipcode" : "BT2928", 
+    "area" : "Kampong Bukit Kabun, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59b"), 
+    "zipcode" : "BT2328", 
+    "area" : "Kampong Kapok, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59c"), 
+    "zipcode" : "BT1928", 
+    "area" : "Kampong Masjid Lama, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59d"), 
+    "zipcode" : "BT2728", 
+    "area" : "Kampong Meragang, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59e"), 
+    "zipcode" : "BT1328", 
+    "area" : "Kampong Pelumpong, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce59f"), 
+    "zipcode" : "BT3528", 
+    "area" : "Kampong Pelumpong, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a0"), 
+    "zipcode" : "BT3128", 
+    "area" : "Kampong Pengalayan, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a1"), 
+    "zipcode" : "BT3328", 
+    "area" : "Kampong Pulau Muara Besar, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a2"), 
+    "zipcode" : "BT2128", 
+    "area" : "Kampong Sabun, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a3"), 
+    "zipcode" : "BT1728", 
+    "area" : "Kampong Serasa, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a4"), 
+    "zipcode" : "BT1528", 
+    "area" : "Kampong Tanjong Batu, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a5"), 
+    "zipcode" : "BT1128", 
+    "area" : "Pekan Muara, Serasa", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a6"), 
+    "zipcode" : "BK1125", 
+    "area" : "Kampong Bolkiah 'A', Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a7"), 
+    "zipcode" : "BK1325", 
+    "area" : "Kampong Bolkiah 'B', Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a8"), 
+    "zipcode" : "BK1525", 
+    "area" : "Kampong Setia 'A', Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5a9"), 
+    "zipcode" : "BK1725", 
+    "area" : "Kampong Setia 'B', Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5aa"), 
+    "zipcode" : "BK2325", 
+    "area" : "Kampong Sungai Kebun, Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ab"), 
+    "zipcode" : "BK1925", 
+    "area" : "Kampong Sungai Siamas, Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ac"), 
+    "zipcode" : "BK2125", 
+    "area" : "Kampong Ujong Kelinik, Sungai Kebun", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ad"), 
+    "zipcode" : "BN1311", 
+    "area" : "Kampong Bukit Salat, Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ae"), 
+    "zipcode" : "BN2111", 
+    "area" : "Kampong Kuala Peminyak, Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5af"), 
+    "zipcode" : "BN2311", 
+    "area" : "Kampong Pemancha Lama, Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b0"), 
+    "zipcode" : "BN1111", 
+    "area" : "Kampong Sumbiling Lama, Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b1"), 
+    "zipcode" : "BN1711", 
+    "area" : "Kampong Sungai Kedayan 'A', Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b2"), 
+    "zipcode" : "BN1511", 
+    "area" : "Kampong Sungai Kedayan 'B', Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b3"), 
+    "zipcode" : "BN1911", 
+    "area" : "Kampong Ujong Tanjong, Sungai Kedayan", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b4"), 
+    "zipcode" : "BL1512", 
+    "area" : "Kampong Bendahara Lama, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b5"), 
+    "zipcode" : "BL1312", 
+    "area" : "Kampong Limbongan, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b6"), 
+    "zipcode" : "BL1712", 
+    "area" : "Kampong Pengiran Kerma Indera, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b7"), 
+    "zipcode" : "BL1912", 
+    "area" : "Kampong Pengiran Tajuddin Hitam, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b8"), 
+    "zipcode" : "BL2112", 
+    "area" : "Kampong Tamoi Tengah, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5b9"), 
+    "zipcode" : "BL2312", 
+    "area" : "Kampong Tamoi Ujong, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ba"), 
+    "zipcode" : "BL1112", 
+    "area" : "Kampong Ujong Bukit, Tamoi", 
+    "city" : "Brunei Muara"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5bb"), 
+    "zipcode" : "PD1151", 
+    "area" : "Kampong Amo 'A', Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5bc"), 
+    "zipcode" : "PD1351", 
+    "area" : "Kampong Amo 'B', Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5bd"), 
+    "zipcode" : "PD1551", 
+    "area" : "Kampong Amo 'C', Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5be"), 
+    "zipcode" : "PD1951", 
+    "area" : "Kampong Batang Duri, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5bf"), 
+    "zipcode" : "PD3151", 
+    "area" : "Kampong Belaban, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c0"), 
+    "zipcode" : "PD2551", 
+    "area" : "Kampong Biang Menengah, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c1"), 
+    "zipcode" : "PD3351", 
+    "area" : "Kampong Bukit Belalong, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c2"), 
+    "zipcode" : "PD3551", 
+    "area" : "Kampong Bukit Belutut, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c3"), 
+    "zipcode" : "PD2351", 
+    "area" : "Kampong Parit, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c4"), 
+    "zipcode" : "PD2751", 
+    "area" : "Kampong Selangan, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c5"), 
+    "zipcode" : "PD2951", 
+    "area" : "Kampong Sibulu, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c6"), 
+    "zipcode" : "PD2151", 
+    "area" : "Kampong Sibut, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c7"), 
+    "zipcode" : "PD1751", 
+    "area" : "Kampong Sumbiling, Amo", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c8"), 
+    "zipcode" : "PA1351", 
+    "area" : "Jabatan Daerah Temburong, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5c9"), 
+    "zipcode" : "PA2551", 
+    "area" : "Kampong Balayang, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ca"), 
+    "zipcode" : "PA3351", 
+    "area" : "Kampong Batang Tuau, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5cb"), 
+    "zipcode" : "PA3151", 
+    "area" : "Kampong Belingus, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5cc"), 
+    "zipcode" : "PA2951", 
+    "area" : "Kampong Buang Bulan, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5cd"), 
+    "zipcode" : "PA1751", 
+    "area" : "Kampong Menengah, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ce"), 
+    "zipcode" : "PA3751", 
+    "area" : "Kampong Puni, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5cf"), 
+    "zipcode" : "PA2751", 
+    "area" : "Kampong Semamang, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d0"), 
+    "zipcode" : "PA3551", 
+    "area" : "Kampong Seri Tanjong Belayang, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d1"), 
+    "zipcode" : "PA1951", 
+    "area" : "Kampong Sungai Sulok, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d2"), 
+    "zipcode" : "PA2351", 
+    "area" : "Kampong Sungai Tanam, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d3"), 
+    "zipcode" : "PA2151", 
+    "area" : "Kampong Sungai Tanit, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d4"), 
+    "zipcode" : "PA3951", 
+    "area" : "Kampong Ujong Jalan, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d5"), 
+    "zipcode" : "PA1351", 
+    "area" : "Pekan Bangar Baru, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d6"), 
+    "zipcode" : "PA1151", 
+    "area" : "Pekan Bangar Lama, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d7"), 
+    "zipcode" : "PA1551", 
+    "area" : "Perkhemahan Bangar, Bangar", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d8"), 
+    "zipcode" : "PC1151", 
+    "area" : "Kampong Batu Apoi, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5d9"), 
+    "zipcode" : "PC1951", 
+    "area" : "Kampong Gadong Baru, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5da"), 
+    "zipcode" : "PC2751", 
+    "area" : "Kampong Lakiun, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5db"), 
+    "zipcode" : "PC3151", 
+    "area" : "Kampong Lamaling, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5dc"), 
+    "zipcode" : "PC2151", 
+    "area" : "Kampong Luagan, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5dd"), 
+    "zipcode" : "PC2351", 
+    "area" : "Kampong Negalang Iring, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5de"), 
+    "zipcode" : "PC2551", 
+    "area" : "Kampong Negalang Unat, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5df"), 
+    "zipcode" : "PC1551", 
+    "area" : "Kampong Peliunan, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e0"), 
+    "zipcode" : "PC3551", 
+    "area" : "Kampong Sekurop, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e1"), 
+    "zipcode" : "PC3351", 
+    "area" : "Kampong Selapon, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e2"), 
+    "zipcode" : "PC1751", 
+    "area" : "Kampong Sungai Bantaian, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e3"), 
+    "zipcode" : "PC1351", 
+    "area" : "Kampong Sungai Radang, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e4"), 
+    "zipcode" : "PC2951", 
+    "area" : "Kampong Tanjong Bungar, Batu Apoi", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e5"), 
+    "zipcode" : "PE2351", 
+    "area" : "Kampong Bakarut, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e6"), 
+    "zipcode" : "PE1351", 
+    "area" : "Kampong Belais, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e7"), 
+    "zipcode" : "PE1551", 
+    "area" : "Kampong Belais Kecil, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e8"), 
+    "zipcode" : "PE1951", 
+    "area" : "Kampong Bokok, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5e9"), 
+    "zipcode" : "PE1151", 
+    "area" : "Kampong Buda-Buda, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ea"), 
+    "zipcode" : "PE3351", 
+    "area" : "Kampong Kenua, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5eb"), 
+    "zipcode" : "PE3551", 
+    "area" : "Kampong Lepong Baru, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ec"), 
+    "zipcode" : "PE3751", 
+    "area" : "Kampong Lepung Lama, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ed"), 
+    "zipcode" : "PE2151", 
+    "area" : "Kampong Meniup, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ee"), 
+    "zipcode" : "PE1751", 
+    "area" : "Kampong Paya Bagangan, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ef"), 
+    "zipcode" : "PE2951", 
+    "area" : "Kampong Perpindahan Rataie, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f0"), 
+    "zipcode" : "PE3151", 
+    "area" : "Kampong Rakyat Jati, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f1"), 
+    "zipcode" : "PE2751", 
+    "area" : "Kampong Rataie, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f2"), 
+    "zipcode" : "PE4151", 
+    "area" : "Kampong Semabat, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f3"), 
+    "zipcode" : "PE3951", 
+    "area" : "Kampong Semabat Bahagia, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f4"), 
+    "zipcode" : "PE2551", 
+    "area" : "Kampong Simbatang, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f5"), 
+    "zipcode" : "PE4351", 
+    "area" : "Kampong Temada, Bukok", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f6"), 
+    "zipcode" : "PB1951", 
+    "area" : "Kampong Ayam-Ayam, Labu", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f7"), 
+    "zipcode" : "PB1151", 
+    "area" : "Kampong Labu Estate, Labu", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f8"), 
+    "zipcode" : "PB1751", 
+    "area" : "Kampong Payau, Labu", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5f9"), 
+    "zipcode" : "PB1551", 
+    "area" : "Kampong Piasau-Piasau, Labu", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5fa"), 
+    "zipcode" : "PB1351", 
+    "area" : "Kampong Senukoh, Labu", 
+    "city" : "Temburong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5fb"), 
+    "zipcode" : "TB2141", 
+    "area" : "Kampong Bukit Nenas, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5fc"), 
+    "zipcode" : "TB1341", 
+    "area" : "Kampong Bukit Panggal, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5fd"), 
+    "zipcode" : "TB3341", 
+    "area" : "Kampong Ikas, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5fe"), 
+    "zipcode" : "TB2541", 
+    "area" : "Kampong Kerakas Payau, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce5ff"), 
+    "zipcode" : "TB1141", 
+    "area" : "Kampong Keriam, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce600"), 
+    "zipcode" : "TB2941", 
+    "area" : "Kampong Kupang, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce601"), 
+    "zipcode" : "TB1541", 
+    "area" : "Kampong Luangan Dudok, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce602"), 
+    "zipcode" : "TB3141", 
+    "area" : "Kampong Maraburong Batu 16, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce603"), 
+    "zipcode" : "TB1941", 
+    "area" : "Kampong Meragang, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce604"), 
+    "zipcode" : "TB2341", 
+    "area" : "Kampong Santul, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce605"), 
+    "zipcode" : "TB1741", 
+    "area" : "Kampong Sinaut, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce606"), 
+    "zipcode" : "TB2741", 
+    "area" : "Kampong Sungai Kelugos, Keriam", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce607"), 
+    "zipcode" : "TE1143", 
+    "area" : "Kampong Bakiau, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce608"), 
+    "zipcode" : "TE2543", 
+    "area" : "Kampong Batang Mitus, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce609"), 
+    "zipcode" : "TE2143", 
+    "area" : "Kampong Birau, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60a"), 
+    "zipcode" : "TE2743", 
+    "area" : "Kampong Kebia, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60b"), 
+    "zipcode" : "TE1543", 
+    "area" : "Kampong Kiudang, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60c"), 
+    "zipcode" : "TE2343", 
+    "area" : "Kampong Luangan Timbaran, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60d"), 
+    "zipcode" : "TE1743", 
+    "area" : "Kampong Mungkom, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60e"), 
+    "zipcode" : "TE1943", 
+    "area" : "Kampong Pad Nunok, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce60f"), 
+    "zipcode" : "TE1343", 
+    "area" : "Kampong Pengkalan Mau, Kiudang", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce610"), 
+    "zipcode" : "TG1743", 
+    "area" : "Kampong Belunu, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce611"), 
+    "zipcode" : "TG2943", 
+    "area" : "Kampong Bentudoh, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce612"), 
+    "zipcode" : "TG3343", 
+    "area" : "Kampong Biong, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce613"), 
+    "zipcode" : "TG2743", 
+    "area" : "Kampong Bukit Sulang, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce614"), 
+    "zipcode" : "TG1343", 
+    "area" : "Kampong Kuala Abang, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce615"), 
+    "zipcode" : "TG2343", 
+    "area" : "Kampong Lamunin, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce616"), 
+    "zipcode" : "TG1143", 
+    "area" : "Kampong Layong, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce617"), 
+    "zipcode" : "TG3143", 
+    "area" : "Kampong Panchong, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce618"), 
+    "zipcode" : "TG1943", 
+    "area" : "Kampong Pengkalan Dong, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce619"), 
+    "zipcode" : "TG1543", 
+    "area" : "Kampong Pengkalan Tangsi, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61a"), 
+    "zipcode" : "TG2543", 
+    "area" : "Kampong Piasan, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61b"), 
+    "zipcode" : "TG2143", 
+    "area" : "Kampong Tanjong Dangar, Lamunin", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61c"), 
+    "zipcode" : "TA3141", 
+    "area" : "Binturan, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61d"), 
+    "zipcode" : "TA1341", 
+    "area" : "Bukit Bendera, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61e"), 
+    "zipcode" : "TA1141", 
+    "area" : "Jabatan Bandaran, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce61f"), 
+    "zipcode" : "TA1141", 
+    "area" : "Jabatan Daerah Tutong, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce620"), 
+    "zipcode" : "TA3341", 
+    "area" : "Kampong Kuala Tutong, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce621"), 
+    "zipcode" : "TA2141", 
+    "area" : "Kampong Panchor Dulit, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce622"), 
+    "zipcode" : "TA1941", 
+    "area" : "Kampong Panchor Papan, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce623"), 
+    "zipcode" : "TA3541", 
+    "area" : "Kampong Penabai, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce624"), 
+    "zipcode" : "TA2741", 
+    "area" : "Kampong Penanjong, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce625"), 
+    "zipcode" : "TA2341", 
+    "area" : "Kampong Sengkarai, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce626"), 
+    "zipcode" : "TA2541", 
+    "area" : "Kampong Serambangun, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce627"), 
+    "zipcode" : "TA1541", 
+    "area" : "Kampong Sungai Basong, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce628"), 
+    "zipcode" : "TA1741", 
+    "area" : "Kampong Suran, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce629"), 
+    "zipcode" : "TA2941", 
+    "area" : "Kampong Tanah Burok, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62a"), 
+    "zipcode" : "TA1141", 
+    "area" : "Pekan Tutong, Pekan Tutong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62b"), 
+    "zipcode" : "TH1949", 
+    "area" : "Kampong Batang Piton, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62c"), 
+    "zipcode" : "TH3949", 
+    "area" : "Kampong Bedawan, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62d"), 
+    "zipcode" : "TH2749", 
+    "area" : "Kampong Belaban, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62e"), 
+    "zipcode" : "TH4149", 
+    "area" : "Kampong Belabau, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce62f"), 
+    "zipcode" : "TH1749", 
+    "area" : "Kampong Benutan, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce630"), 
+    "zipcode" : "TH2549", 
+    "area" : "Kampong Kerancing, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce631"), 
+    "zipcode" : "TH1549", 
+    "area" : "Kampong Kuala Ungar, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce632"), 
+    "zipcode" : "TH3749", 
+    "area" : "Kampong Lalipo, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce633"), 
+    "zipcode" : "TH2949", 
+    "area" : "Kampong Mapol, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce634"), 
+    "zipcode" : "TH1349", 
+    "area" : "Kampong Merimbun, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce635"), 
+    "zipcode" : "TH2349", 
+    "area" : "Kampong Pelajau, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce636"), 
+    "zipcode" : "TH1149", 
+    "area" : "Kampong Rambai, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce637"), 
+    "zipcode" : "TH2149", 
+    "area" : "Kampong Sengkowang, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce638"), 
+    "zipcode" : "TH3149", 
+    "area" : "Kampong Supon Besar, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce639"), 
+    "zipcode" : "TH3549", 
+    "area" : "Kampong Supon Kecil, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63a"), 
+    "zipcode" : "TH3349", 
+    "area" : "Kampong Takalit, Rambai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63b"), 
+    "zipcode" : "TD1541", 
+    "area" : "Kampong Banggunggos, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63c"), 
+    "zipcode" : "TD2341", 
+    "area" : "Kampong Bukit Udal, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63d"), 
+    "zipcode" : "TD2541", 
+    "area" : "Kampong Lubok Pulau, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63e"), 
+    "zipcode" : "TD1741", 
+    "area" : "Kampong Penapar, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce63f"), 
+    "zipcode" : "TD1341", 
+    "area" : "Kampong Sebakit, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce640"), 
+    "zipcode" : "TD1941", 
+    "area" : "Kampong Sungai Damit Pemadang, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce641"), 
+    "zipcode" : "TD1141", 
+    "area" : "Kampong Tanjong Maya/Meranti, Tanjong Maya", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce642"), 
+    "zipcode" : "TC3145", 
+    "area" : "Kampong Bukit Beruang, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce643"), 
+    "zipcode" : "TC2345", 
+    "area" : "Kampong Danau, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce644"), 
+    "zipcode" : "TC2745", 
+    "area" : "Kampong Keramut, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce645"), 
+    "zipcode" : "TC1745", 
+    "area" : "Kampong Lalit, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce646"), 
+    "zipcode" : "TC2545", 
+    "area" : "Kampong Penapar, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce647"), 
+    "zipcode" : "TC2145", 
+    "area" : "Kampong Sungai Paku, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce648"), 
+    "zipcode" : "TC1945", 
+    "area" : "Kampong Tanah Jambu, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce649"), 
+    "zipcode" : "TC1545", 
+    "area" : "Kampong Telamba, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64a"), 
+    "zipcode" : "TC1145", 
+    "area" : "Kampong Telisai, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64b"), 
+    "zipcode" : "TC2945", 
+    "area" : "Kampong Tumpuan Ugas, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64c"), 
+    "zipcode" : "TC3345", 
+    "area" : "Perumahan Negara Bukit Beruang, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64d"), 
+    "zipcode" : "TC1345", 
+    "area" : "Perumahan Negara Telisai, Telisai", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64e"), 
+    "zipcode" : "TF4547", 
+    "area" : "Kampong Bang Bingol, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce64f"), 
+    "zipcode" : "TF4147", 
+    "area" : "Kampong Bang Ligi, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce650"), 
+    "zipcode" : "TF2547", 
+    "area" : "Kampong Bang Pangan, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce651"), 
+    "zipcode" : "TF3147", 
+    "area" : "Kampong Bukit, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce652"), 
+    "zipcode" : "TF4347", 
+    "area" : "Kampong Litad, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce653"), 
+    "zipcode" : "TF4747", 
+    "area" : "Kampong Long Mayan, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce654"), 
+    "zipcode" : "TF3747", 
+    "area" : "Kampong Melaboi, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce655"), 
+    "zipcode" : "TF1947", 
+    "area" : "Kampong Nong Anggeh, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce656"), 
+    "zipcode" : "TF2947", 
+    "area" : "Kampong Pak Bidang, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce657"), 
+    "zipcode" : "TF2747", 
+    "area" : "Kampong Pak Meligai, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce658"), 
+    "zipcode" : "TF1547", 
+    "area" : "Kampong Pengkalan Dong, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce659"), 
+    "zipcode" : "TF3947", 
+    "area" : "Kampong Pengkalan Padang, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65a"), 
+    "zipcode" : "TF3347", 
+    "area" : "Kampong Pengkalan Panchor, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65b"), 
+    "zipcode" : "TF1347", 
+    "area" : "Kampong Pengkalan Ran, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65c"), 
+    "zipcode" : "TF2347", 
+    "area" : "Kampong Pitau Lambang, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65d"), 
+    "zipcode" : "TF2147", 
+    "area" : "Kampong Sungai Damit Ulu, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65e"), 
+    "zipcode" : "TF3547", 
+    "area" : "Kampong Talat, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce65f"), 
+    "zipcode" : "TF1747", 
+    "area" : "Kampong Tong Kundai, Ukong", 
+    "city" : "Tutong"
+}
+{ 
+    "_id" : ObjectId("5757a4e3f9e03a3f200ce660"), 
+    "zipcode" : "TF1147", 
+    "area" : "Kampong Ukong, Ukong", 
+    "city" : "Tutong"
+}
